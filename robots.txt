@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://uoufalix.github.io/zyx/zyx.txt
